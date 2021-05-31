@@ -1,10 +1,11 @@
 ### Hello! I am Matheus Henrique 👋
 
- <div>
-  <a href="https://github.com/MatheusHenrique129">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusHenrique129&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHenrique129&layout=compact&langs_count=16&theme=dracula"/>
 <div>
+  <a href="https://github.com/MatheusHenrique129">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusHenrique129&hide=issues&show_icons=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHenrique129&layout=compact&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a"/>
+<div>
+
 
 
 
