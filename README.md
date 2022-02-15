@@ -1,5 +1,7 @@
 ## Olá seja Bem Vindo! eu sou Matheus Henrique <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
+## Graduando em Ciências da Computação.
+
 <div>
   <a href="https://github.com/MatheusHenrique129">
   <img height="162em" src="https://github-readme-stats.vercel.app/api?username=MatheusHenrique129&hide=issues&show_icons=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a"/>
