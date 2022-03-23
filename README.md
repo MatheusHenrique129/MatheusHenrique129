@@ -1,15 +1,5 @@
 ## Olá seja Bem Vindo! eu sou Matheus Henrique <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-## Para Contato
-  
-<div> 
-  <a href = "mailto: matheustennant@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-henrique-657841206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  <a href="https://www.instagram.com/math_henrique.ofc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-8B008B?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
-  
-  ##
-
 <div>
   <a href="https://github.com/MatheusHenrique129">
   <img height="162em" src="https://github-readme-stats.vercel.app/api?username=MatheusHenrique129&hide=issues&show_icons=true&theme=radical&include_all_commits=true"/>
@@ -41,11 +31,6 @@
   <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
   
   ##
-  
-<!-- GitHub stats graph -->
-## 📈 GitHub Grafico de Atividades:
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=MatheusHenrique129&hide_border=true&theme=redical)
-
 
 ## Commits
    
@@ -53,12 +38,23 @@
   
   ![Snake animation](https://github.com/MatheusHenrique129/MatheusHenrique129/blob/output/github-contribution-grid-snake.svg) 
 </div>
-    
+  
+  ##
+  
+<!-- GitHub stats graph -->
+### 📈 GitHub Grafico de Atividades:
+![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=MatheusHenrique129&hide_border=true&theme=redical)
+
+##
+  
+### Para Contato
+  
 <div> 
-
- ## Total de Visitas no perfil :detective: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/MatheusHenrique129/count.svg" />
- </p>
-
+  <a href = "mailto: matheustennant@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheus-henrique-657841206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.instagram.com/math_henrique.ofc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-8B008B?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+  
+  ##
+    
+ ### <p align="center">Visitas ao meu Perfil :detective: <br><br> <img alingn="center" src="https://profile-counter.glitch.me/MatheusHenrique129/count.svg" /></p>
