@@ -59,7 +59,6 @@
   
 ##
   
-<!-- GitHub stats graph -->
 ### 📈 GitHub Grafico de Atividades:
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=MatheusHenrique129&hide_border=true&theme=redical)
 
@@ -68,7 +67,7 @@
 ### 💬 Me chame para bater um papo :)
   
 <div> 
-    <a href="https://www.linkedin.com/in/matheus-henrique-657841206/" target="_blank">
+    <a href="https://www.linkedin.com/in/matheushenrique-ofc/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>  
   
