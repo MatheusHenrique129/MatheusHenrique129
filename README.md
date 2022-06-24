@@ -1,4 +1,4 @@
-# Hi there, I'm Matheus Henrique <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px">
+### Hi there, I'm Matheus Henrique <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="30px">
 
 <details>
   <summary>📈  My GitHub Stats: </summary>
