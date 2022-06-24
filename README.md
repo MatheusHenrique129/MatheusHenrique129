@@ -1,9 +1,9 @@
-# Olá! eu sou o Matheus Henrique <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px">
+# Hi there, I'm Matheus Henrique <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px">
 
 <div>
   <a href="https://github.com/MatheusHenrique129">
-  <img height="162em" src="https://github-readme-stats.vercel.app/api?username=MatheusHenrique129&hide=issues&show_icons=true&theme=radical&include_all_commits=true"/>
-  <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHenrique129&theme=radical&layout=compact"/>
+  <img height="162em" src="https://github-readme-stats.vercel.app/api?username=MatheusHenrique129&hide=issues&show_icons=true&include_all_commits=true&bg_color=90,29ABE2,4F00BC&title_color=fff&text_color=fff&icon_color=00FFFF&border_color=00FFFF&&border_radius=20&count_private=true"/>
+  <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHenrique129&bg_color=90,29ABE2,4F00BC&title_color=fff&text_color=fff&icon_color=00FFFF&border_color=00FFFF&&border_radius=20&count_private=true"/>
 <div> 
   
 ##
