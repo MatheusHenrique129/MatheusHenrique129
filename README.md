@@ -2,9 +2,10 @@
 
 ![Matheus Henrique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusHenrique129&hide=issues&show_icons=true&include_all_commits=true&bg_color=90,29ABE2,4F00BC&title_color=fff&text_color=fff&icon_color=00FFFF&border_color=00FFFF&&border_radius=15&count_private=true)
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHenrique129&bg_color=90,29ABE2,4F00BC&title_color=fff&text_color=fff&icon_color=00FFFF&border_color=00FFFF&&border_radius=20&count_private=true"/>
+
 ##
 
-### 👾 Tenho conhecimento em:
+### 👾 I have knowledge in:
 
 <div style="display: inline_block"><br> 
   
@@ -36,7 +37,7 @@
   
 ##
   
-### 🚀 Próximo Nivel:
+### 🚀 Next level:
     
   <img align="center" alt="Matheus-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   
@@ -55,7 +56,7 @@
   
 ##
   
-### 📈 GitHub Grafico de Atividades:
+### 📈 GitHub Activity Chart:
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=MatheusHenrique129&hide_border=true&theme=redical)
 
 ##
@@ -68,6 +69,7 @@
 
 [![Followers](https://img.shields.io/github/followers/matheushenrique129.svg?style=social&label=Follow)](https://github.com/MatheusHenrique129)
 <img src="./assets/cat.gif" width="60" height="60" />
+
 ##
 
-### <p align="center">Visitas ao meu Perfil :detective: <br><br><img alingn="center" src="https://profile-counter.glitch.me/MatheusHenrique129/count.svg" /></p>
+### <p align="center">Visits to my Profile :detective: <br><br><img alingn="center" src="https://profile-counter.glitch.me/MatheusHenrique129/count.svg" /></p>
