@@ -13,7 +13,7 @@
 
 <details>
   <summary>
-    👾  I'm a software developer who enjoys learning new languages, libraries, and frameworks. I'm currently learning: 
+    🧑🏻‍💻  I'm a software developer who enjoys learning new languages, libraries, and frameworks. I'm currently learning: 
   </summary>
   &nbsp;
   <div style="display: inline_block">
@@ -41,7 +41,7 @@
 
 <details>
   <summary>
-    🚀  Interesting technologies which I hope to learn in the future: 
+      💻  Interesting technologies which I hope to learn in the future: 
   </summary>
   &nbsp;
   <div>
@@ -50,14 +50,6 @@
     <img alt="Matheus-Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
     <img alt="Matheus-Swifit" src="https://img.shields.io/badge/Swift-E87435?style=for-the-badge&logo=swift&logoColor=white">
   </div>
-</details>
-
-<details>
-   <summary>🐍  My Commits: </summary>
-   &nbsp;
-  <p align="center">Visits to my Profile :detective: <br><br><img alingn="center" src="https://profile-counter.glitch.me/MatheusHenrique129/count.svg" /></p>
-  
-  ![Snake animation](https://github.com/MatheusHenrique129/MatheusHenrique129/blob/output/github-contribution-grid-snake.svg) 
 </details>
 
 <details>
@@ -71,4 +63,13 @@
   [![Followers](https://img.shields.io/github/followers/matheushenrique129.svg?style=social&label=Follow)](https://github.com/MatheusHenrique129)
   <img src="./assets/cat.gif" width="60" height="60" /> 
 </details>
+
+<details>
+   <summary>🐍  My Commits: </summary>
+   &nbsp;
+  <p align="center">Visits to my Profile :detective: <br><br><img alingn="center" src="https://profile-counter.glitch.me/MatheusHenrique129/count.svg" /></p>
+  
+  ![Snake animation](https://github.com/MatheusHenrique129/MatheusHenrique129/blob/output/github-contribution-grid-snake.svg) 
+</details>
+
 
