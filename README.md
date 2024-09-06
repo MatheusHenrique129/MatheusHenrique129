@@ -1,7 +1,15 @@
-# Hi there, I'm Matheus Henrique <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="30px">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffeb30&height=120&section=header"/>
 
-![Matheus Henrique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusHenrique129&bg_color=90,29ABE2,4F00BC&title_color=fff&text_color=fff&icon_color=00FFFF&border_color=00FFFF&&border_radius=15&count_private=true&show_icons=true&include_all_commits=true)
-<img height="193em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHenrique129&bg_color=90,29ABE2,4F00BC&title_color=fff&text_color=fff&icon_color=00FFFF&border_color=00FFFF&&border_radius=20&count_private=true"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Matheus+Henrique;I+Graduated+in+Computer+Science;Be+Wellcome!+;Sejam+Bem-vindos!+:%29+👋)](https://git.io/typing-svg) 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MatheusHenrique129&bg_color=0d1117&color=ffffff&line=00fa04&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">  
+<!-- ![Matheus Henrique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusHenrique129&bg_color=90,29ABE2,4F00BC&title_color=fff&text_color=fff&icon_color=00FFFF&border_color=00FFFF&&border_radius=15&count_private=true&show_icons=true&include_all_commits=true) -->
+
+  <img height="193em" src="https://github-readme-stats.vercel.app/api?username=MatheusHenrique129&bg_color=90,29ABE2,4F00BC&title_color=fff&text_color=fff&icon_color=00FFFF&border_color=00FFFF&&border_radius=15&count_private=true&show_icons=true&include_all_commits=true"/>
+  <img height="193em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHenrique129&bg_color=90,29ABE2,4F00BC&title_color=fff&text_color=fff&icon_color=00FFFF&border_color=00FFFF&&border_radius=20&count_private=true"/>
+</div>
   
 &nbsp;
 
@@ -46,9 +54,6 @@
 ![Snake animation](https://github.com/MatheusHenrique129/MatheusHenrique129/blob/output/github-contribution-grid-snake.svg) 
 --
 
-## 📈 GitHub Activity Chart:
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=MatheusHenrique129&hide_border=true&theme=redical)
-
 
 ## 💬 Call me to chat :)
  &nbsp;
@@ -61,4 +66,10 @@
 <img src="./assets/cat.gif" width="60" height="60" /> 
 --
 
-## <p align="center">Visits to my Profile :detective: <br><br><img alingn="center" src="https://profile-counter.glitch.me/MatheusHenrique129/count.svg" /></p>
+<div align="center">
+  <br>
+  <p align="center"><b>Visits to my Profile :detective:</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{pradoRebeca}/count.svg" /></p> 
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffeb30&height=120&section=footer"/>
